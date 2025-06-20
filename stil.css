@@ -31,9 +31,6 @@ span {
 
 .pozadina {
     background-image: url("slike/Unknown.jpeg");
-    background-repeat: repeat-y;          
-    background-position: center top;      
-    background-size: auto;   
 }
 
 .drugapozadina {
